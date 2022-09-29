@@ -8,7 +8,7 @@
 ```
 $> 5th grade Engineering student
 $> Working on different technologies but mainly Java and Python for automation
-$> A real epistemophilia
+$> A real epistemophile
 $> Learning Rust
 ```
 
