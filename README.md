@@ -9,7 +9,7 @@
 $> 5th grade Engineering student
 $> Working on different technologies but mainly Java and Python for automation
 $> A real epistemophile
-$> Learning Rust
+$> Learning React / JS & ES6
 ```
 
 ### Languages 
