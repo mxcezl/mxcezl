@@ -1,15 +1,13 @@
-## Hi there, I am Maxence ZOLNIERUCK - aka [mxcezl](https://github.com/mxcezl) :speaking_head:
+## Hi there, I am [mxcezl](https://github.com/mxcezl) :speaking_head:
 
-[![my linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-zol/)
 [![my twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maxence_it)
 
 ## I'm an IT Engineer and InfoSec lover :gear:
 
 ```
-$> 5th grade Engineering student
+$> IT Engineer
 $> Working on different technologies but mainly Java and Python for automation
 $> A real epistemophile
-$> Learning React / JS & ES6
 ```
 
 ### Languages 
